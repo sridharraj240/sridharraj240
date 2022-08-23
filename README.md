@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sridharraj240
-- 👀 I’m interested in CIP DESIGN
+- 👋 Hi, I’m @sridhar
+- 👀 I’m interested in ChIP DESIGN
 - 🌱 I’m currently learning MEMORIES
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
